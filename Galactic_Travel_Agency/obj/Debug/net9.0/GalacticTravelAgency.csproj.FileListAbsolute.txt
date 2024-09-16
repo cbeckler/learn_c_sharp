@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\bin\Debug\net9.0\GalacticTravelAgency.exe
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\bin\Debug\net9.0\GalacticTravelAgency.deps.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\bin\Debug\net9.0\GalacticTravelAgency.runtimeconfig.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\bin\Debug\net9.0\GalacticTravelAgency.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\bin\Debug\net9.0\GalacticTravelAgency.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.AssemblyInfo.cs
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.sourcelink.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\refint\GalacticTravelAgency.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\GalacticTravelAgency.genruntimeconfig.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Galactic_Travel_Agency\obj\Debug\net9.0\ref\GalacticTravelAgency.dll
