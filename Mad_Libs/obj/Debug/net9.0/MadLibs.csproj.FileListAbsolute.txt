@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.AssemblyInfo.cs
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.sourcelink.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\bin\Debug\net9.0\MadLibs.exe
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\bin\Debug\net9.0\MadLibs.deps.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\bin\Debug\net9.0\MadLibs.runtimeconfig.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\bin\Debug\net9.0\MadLibs.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\bin\Debug\net9.0\MadLibs.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\refint\MadLibs.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\MadLibs.genruntimeconfig.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Mad_Libs\obj\Debug\net9.0\ref\MadLibs.dll
