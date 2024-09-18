@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\bin\Debug\net9.0\MoneyMaker.exe
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\bin\Debug\net9.0\MoneyMaker.deps.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\bin\Debug\net9.0\MoneyMaker.runtimeconfig.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\bin\Debug\net9.0\MoneyMaker.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\bin\Debug\net9.0\MoneyMaker.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.AssemblyInfo.cs
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.sourcelink.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\refint\MoneyMaker.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\MoneyMaker.genruntimeconfig.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Money_Maker\obj\Debug\net9.0\ref\MoneyMaker.dll
