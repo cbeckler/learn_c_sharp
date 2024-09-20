@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.AssemblyInfo.cs
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.sourcelink.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\bin\Debug\net9.0\SpaceExpedition.exe
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\bin\Debug\net9.0\SpaceExpedition.deps.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\bin\Debug\net9.0\SpaceExpedition.runtimeconfig.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\bin\Debug\net9.0\SpaceExpedition.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\bin\Debug\net9.0\SpaceExpedition.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\refint\SpaceExpedition.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\SpaceExpedition.genruntimeconfig.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Expedition\obj\Debug\net9.0\ref\SpaceExpedition.dll
