@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\bin\Debug\net9.0\SpaceInvetory.exe
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\bin\Debug\net9.0\SpaceInvetory.deps.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\bin\Debug\net9.0\SpaceInvetory.runtimeconfig.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\bin\Debug\net9.0\SpaceInvetory.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\bin\Debug\net9.0\SpaceInvetory.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.AssemblyInfo.cs
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.sourcelink.json
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\refint\SpaceInvetory.dll
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.pdb
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\SpaceInvetory.genruntimeconfig.cache
+C:\Users\charl\Documents\learn_c_sharp\learn_c_sharp\Space_Inventory\obj\Debug\net9.0\ref\SpaceInvetory.dll
