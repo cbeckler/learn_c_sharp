@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charl\\Documents\\learn_c_sharp\\learn_c_sharp\\Hello_World\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\Code_Repos\\learn_c_sharp\\Hello_World\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\charl\\Documents\\learn_c_sharp\\learn_c_sharp\\Hello_World\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\charl\\Code_Repos\\learn_c_sharp\\Hello_World\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charl\\Documents\\learn_c_sharp\\learn_c_sharp\\Hello_World\\obj\\",
+      "outputPath": "C:\\Users\\charl\\Code_Repos\\learn_c_sharp\\Hello_World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

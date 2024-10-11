@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Your code here
+        // Your code here for the classic hello world
          Console.WriteLine("Hello, World!");
     }
 }
